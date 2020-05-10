@@ -8,8 +8,12 @@
 
 
 Roles :
+
+
 • Owner :
+
 Tasks Performed
+
 1. Owners can signup in the Adda platform for registering their properties as a venues
 for the events.
 2. Owners can register their property on the portal.
@@ -24,6 +28,7 @@ update the previously created venues
 • Users:
 
 Tasks Performed
+
 1. Users can sign up to the Adda platform for creating / exploring various events
 happening around the world
 2. Create the events at the available venues posted by the owners.
