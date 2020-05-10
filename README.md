@@ -1,6 +1,12 @@
 # The-Adda
 [![HitCount](http://hits.dwyl.com/vdhoke/The-Adda.svg)](http://hits.dwyl.com/vdhoke/The-Adda)
 
+
+
+## Preview
+![Preview](https://i.ibb.co/rxpL8Jp/Screen-Shot-2020-04-20-at-7-03-26-PM.png)
+
+
 Roles :
 • Owner :
 Tasks Performed
@@ -13,7 +19,10 @@ update the previously created venues
 5. The events created on those venues will be automatically deleted
 6. Owners can manage their account details.
 7. Owners get notified by email when the Venue is added to the Adda platform
+
+
 • Users:
+
 Tasks Performed
 1. Users can sign up to the Adda platform for creating / exploring various events
 happening around the world
@@ -29,6 +38,3 @@ booked on the same date.
 event gets automatically deregistered.
 10. Users get notified by email for registering the events and any change made on
 already registered event.
-
-## Preview
-![Preview](https://i.ibb.co/rxpL8Jp/Screen-Shot-2020-04-20-at-7-03-26-PM.png)
